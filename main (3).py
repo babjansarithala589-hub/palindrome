@@ -1,6 +1,6 @@
 def reverse(n):
     out=0
-    stor=n
+    store=n
     while n>0:
         rem=n%10
         out=out*10+rem
